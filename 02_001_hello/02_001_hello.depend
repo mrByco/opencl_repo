@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1708437287 source:c:\users\au087289\documents\opencl_repo\02_001_hello\main.c
+	<stdio.h>
+	<stdlib.h>
+	<CL/cl.h>
+
